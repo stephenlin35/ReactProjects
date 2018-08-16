@@ -1,2 +1,2 @@
 # ReactProjects
-Random React Projects
+A bunch of React projects
