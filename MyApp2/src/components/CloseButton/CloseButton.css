@@ -1,0 +1,9 @@
+.close {
+    border-radius: 50%;
+    color: #fff;
+    background: red;
+    height: 26px;
+    position: relative;
+    top: 15px;
+    line-height: 15px;
+}
